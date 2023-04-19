@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center">
-  <img alt="versão 1 do projeto" title="#rocketflix" src="./assets/readme/projeto.png">
+  <img alt="versão 1 do projeto" title="#SocialTree" src="/assets/readme/projeto.png">
 </p>  
 
 ### 💻 Sobre o desafio
